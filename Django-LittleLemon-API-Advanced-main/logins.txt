@@ -1,0 +1,14 @@
+customer: 
+	username: test
+	password: Lemonpass123!
+	token: 7a77a3db41c7a476d06ff6d12ec69405d26db4c4
+
+admin:
+	username: James
+	password: coursera
+
+delivery_crew:
+	username: Adam
+	password: Lemonpass123!
+
+
